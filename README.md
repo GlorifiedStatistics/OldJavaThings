@@ -1,0 +1,1 @@
+A bunch of old Java projects I did. Not worth the time making a separate repo for each, so I just combined them here.
